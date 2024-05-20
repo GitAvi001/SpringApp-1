@@ -1,2 +1,2 @@
 # SpringApp-1
-Simple Student management web application designed by using SPringboot, ReactJS, MaterialUI and MySQL
+Simple Student management web application designed by using Springboot, ReactJS, MaterialUI and MySQL
